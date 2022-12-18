@@ -37,7 +37,7 @@ Similarly the count increases by 1 if the user returns the book.
 Note: If the books are not available then prompts a message like 'Out of Stock'.
 
 
-#How To Run The Project
+# How To Run The Project
 
 1) Install Nodejs on the system (if it is not available on the system).
 2) Open the Project Folder in the VSCode .
