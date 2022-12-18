@@ -52,6 +52,7 @@ Note: If the books are not available then prompts a message like 'Out of Stock'.
 5) Finally a local host server on the default Browser.
 
 Note: If any vulnerabilities are found while installing the dependencies at step 3 then try fixing it y using below commands:
+
       ```
       npm install react-scripts
       ```
