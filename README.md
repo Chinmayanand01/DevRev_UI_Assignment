@@ -2,7 +2,7 @@
 
 ## Description Of The Project
 
-This project includes the frontend part of library management system where any user can request a book that is available from the list of books and can return the book once the purpose of takinf the book is satisfied.
+This project includes the frontend part of library management system where any user can request a book that is available from the list of books and can return the book once the purpose of taking the book is satisfied.
 Now let us explore the features or functionalities of this webpage.
 
 ### 1) Overall View of the WebPage
@@ -54,6 +54,7 @@ Note: If the books are not available then prompts a message like 'Out of Stock'.
 Note: If any vulnerabilities are found while installing the dependencies at step 3 then try fixing it y using below commands:
       ```
       npm install react-scripts
-      
+      ```
+      ```
       npm audit fix --force
       ```
