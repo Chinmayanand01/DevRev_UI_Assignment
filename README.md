@@ -14,16 +14,16 @@ The WebPage contains two tabs namely 'Request Books' and 'My Books'.
 In Request Books tab, a user can be able to see all the books listed. A book can be requested by marking the checkbox and clicking on Request Book.
 ![photo3](https://user-images.githubusercontent.com/94974857/208284277-3fbf317e-2564-467f-bb7b-2d52cd494b87.png)
 
-In My Books tab, a user can be able to see all the books that he/she has requested. And if the user wants to return then he can select the by marking on checkbox and clicking on return book button.
+In My Books tab, a user can be able to see all the books that he/she has requested. And if the user wants to return then he can select the book by marking on checkbox and clicking on return book button.
 ![photo4](https://user-images.githubusercontent.com/94974857/208284339-031d2c89-a519-4eae-9aed-1348d4757dfa.png)
 
 ![photo5](https://user-images.githubusercontent.com/94974857/208284342-102de505-b5e6-4648-9d9b-131c2c7aab48.png)
 
-Note: Paging is formed on the list of books such that 10 books can be viewed per page.
+Note: Paging is performed on the list of books such that 10 books can be viewed per page.
 
 ### 2) Applying Filters
 
-A user can be able to filter the books based on the BookName,Author and ISBN by selecting any option from the Drop down List.
+A user can be able to filter the books based on the BookName,Author and ISBN by selecting any option from the Drop down List and search Box.
 
 ![photo6](https://user-images.githubusercontent.com/94974857/208284445-347ea929-0536-4add-93a5-2502cbdea49e.png)
 
@@ -34,7 +34,7 @@ Similarly the count increases by 1 if the user returns the book.
 
 ![photo7](https://user-images.githubusercontent.com/94974857/208284512-a1e147bb-6e4b-499a-a12a-59a357d405bf.png)
 
-Note: If the books are not available then prompts a message like 'Out of Stock'.
+Note: If the books are not available then the WebPage prompts a message like 'Out of Stock'.
 
 
 # How To Run The Project
@@ -49,9 +49,9 @@ Note: If the books are not available then prompts a message like 'Out of Stock'.
    ```
    npm start
    ```
-5) Finally a local host server on the default Browser.
+5) Finally a local host server runs on the default Browser.
 
-Note: If any vulnerabilities are found while installing the dependencies at step 3 then try fixing it y using below commands:
+Note: If any vulnerabilities are found while installing the dependencies at step 3 then try fixing it by using below commands:
 
       ```
       npm install react-scripts
